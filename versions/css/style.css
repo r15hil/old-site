@@ -1,0 +1,10 @@
+.landing::after{
+    content: "";
+    bottom: 0;
+    display: block;
+    position: absolute;
+    margin-bottom: 0;
+    height: 100%;
+    width: 50%;
+    background-image: url('https://www.shell.com/energy-and-innovation/the-energy-future/scenarios/shell-scenario-sky/_jcr_content/pagePromo/image.img.960.jpeg/1548184031017/clear-blue-sky.jpeg');
+}
